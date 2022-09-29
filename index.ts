@@ -8,6 +8,8 @@ export * from './chain/ethereum'
 export * from './chain/near'
 // Cosmos support
 export * from './chain/cosmos'
+// StarkNet support
+export * from './chain/starknet'
 // Regular re-exports
 export * from './common/numbers'
 export * from './common/collections'
